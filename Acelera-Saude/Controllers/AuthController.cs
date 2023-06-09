@@ -1,10 +1,12 @@
 ﻿using Acelera_Saude.Models;
 using Firebase.Auth;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
 namespace Acelera_Saude.Controllers
 {
+    
     public class AuthController : Controller
     {
 

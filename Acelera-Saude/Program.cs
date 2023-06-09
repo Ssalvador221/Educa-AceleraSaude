@@ -4,16 +4,14 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession(options =>
 {
-    options.Cookie.Name = "Account";
-    options.IdleTimeout = TimeSpan.FromDays(30);
+    options.Cookie.Name = "FirebaseAccountToken";
+    options.Cookie.SameSite = SameSiteMode.None;
+    options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
     options.Cookie.HttpOnly = true;
     options.Cookie.IsEssential = true;
 });
 
-
-
 var app = builder.Build();
-
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -27,9 +25,9 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
 app.UseSession();
 app.UseAuthentication();
-
 app.UseAuthorization();
 
 app.MapControllerRoute(
