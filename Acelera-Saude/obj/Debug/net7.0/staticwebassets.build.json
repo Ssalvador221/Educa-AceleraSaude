@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0fTtknO2tx+2SCAmbgJbm20aPgkySEba3BubArsUWFg=",
+  "Hash": "+wPiPQmSa8zJdf7jGFfEFOn1Rg0cXs/h7kvEJre+XtM=",
   "Source": "Acelera-Saude",
   "BasePath": "_content/Acelera-Saude",
   "Mode": "Default",
@@ -542,6 +542,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\logo-asaas-azul-.png"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\LogoCapa1.png",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/LogoCapa1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\LogoCapa1.png"
     },
     {
       "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\logo-cna-benevix.jpg",

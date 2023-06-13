@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\Assets\\D4Sign-icon.png"
     },
     {
+      "Id": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\LogoCapa1.png",
+      "PackagePath": "staticwebassets\\Assets\\LogoCapa1.png"
+    },
+    {
       "Id": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\PLOOMES_Imagotipo_Branco_Vertical_Fundo_Roxo.png",
       "PackagePath": "staticwebassets\\Assets\\PLOOMES_Imagotipo_Branco_Vertical_Fundo_Roxo.png"
     },

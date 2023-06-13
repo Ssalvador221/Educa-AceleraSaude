@@ -50,6 +50,21 @@ body {
     justify-content:center;
 }
 
+#titulo-pagina{
+    margin-top:12px;
+    text-align:center;
+}
+
+#subtitulo-pagina{
+    text-align:center;
+}
+
+.titulo-da-pagina{
+    text-align:center;
+    font-size:30px;
+    margin-top:12px;
+}
+
 .logo{
     width:50%;
 }
