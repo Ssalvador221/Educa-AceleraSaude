@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Unimed Florianópolis";
+}
+
+<header>
+    <h1 id="titulo">Selecione uma das pastas abaixo</h1>
+    <p id="subtitulo">Clique em uma das caixas para ser direcionado para o arquivo</p>
+</header>
+
+<section class="container appPage">
+    <div class="column">
+        <a href="https://www.benevix.info/" target="_blank"><img src="~/Assets/logo-cna-benevix.jpg" class="icon" /></a>
+        <p>BENEVIX</p>
+    </div>
+     <div class="column">
+        <a href="~/Assets/TABELA DE PREÇOS CAASC ACELERA - DEZ 22 A NOV 23 (2) (4).pdf" target="_blank"><img src="~/Assets/CaascLogo.jpg" class="icon" /></a>
+        <p>CAASC</p>
+    </div>
+     <div class="column">
+        <a asp-controller="Paginas" asp-action="P4h"><img src="~/Assets/p4h.svg" class="icon" /></a>
+        <p>P4H</p>
+    </div>
+     <div class="column">
+        <a href="~/Assets/Plataformas _ Tabela formatada 2023 - Cópia de Região 2 (Plataformas).pdf" target="_blank"><img src="~/Assets/Pj.svg" class="icon" /></a>
+        <p>PJ</p>
+    </div>
+    <div class="column">
+        <a href="~/Assets/ANASP - Ficha de filiação .pdf" target="_blank"><img src="~/Assets/AnaspLogo.svg" class="icon" /></a>
+        <p>ANASP</p>
+    </div>
+</section>

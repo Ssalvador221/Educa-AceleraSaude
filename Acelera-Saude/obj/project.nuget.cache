@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Eqe/7rFyM+m2BYox9j1ZgM/eCQJaJ5QUwGVnnJmaZ1JzLef9Y0zD63AKvN5GTwAcO2tc2wljcflSzArCy9w5CA==",
+  "dgSpecHash": "71O8PkQ37G9RDa7N6pzeUOTudCUaNZcyCSgGSr+7XuJgyEsJItf7Cn4Y4ND9NP1XNKusbFZSwWGfjJ8QT4oVbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\Acelera-Saude.csproj",
+  "projectFilePath": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\Acelera-Saude.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaos\\.nuget\\packages\\firebase.auth\\1.0.0\\firebase.auth.1.0.0.nupkg.sha512",
     "C:\\Users\\joaos\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.2.0\\microsoft.aspnetcore.cryptography.internal.2.2.0.nupkg.sha512",

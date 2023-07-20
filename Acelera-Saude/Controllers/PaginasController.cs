@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Routing;
 
 namespace Acelera_Saude.Controllers
 {
@@ -49,6 +50,17 @@ namespace Acelera_Saude.Controllers
             return View("Portfolio", "Paginas");
         }
 
+        [Route("Paginas/UnimedFlorianopolis/UnimedFloripa")]
+        public IActionResult UnimedFloripa()
+        {
+            return View("UnimedFloripa", "Paginas");
+        }
+
+        [Route("Paginas/UnimedFlorianopolis/P4h")]
+        public IActionResult P4h()
+        {
+            return View("P4h", "Paginas");
+        }
 
     }
 }

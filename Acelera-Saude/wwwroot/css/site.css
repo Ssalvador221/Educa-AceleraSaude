@@ -43,11 +43,11 @@ body {
     min-height: 100vh;
 }
 
-.titulo {
+#titulo {
     display: flex;
-    align-content: center;
     align-items: center;
     justify-content:center;
+    margin-top:12px;
 }
 
 #titulo-pagina{
@@ -65,10 +65,21 @@ body {
     margin-top:12px;
 }
 
+.div-logo {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
 .logo{
     width:50%;
 }
 
+p{
+    text-align:center;
+    margin-top: 12px;
+}
 
 .container {
     display: flex;

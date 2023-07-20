@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+wPiPQmSa8zJdf7jGFfEFOn1Rg0cXs/h7kvEJre+XtM=",
+  "Hash": "B622JxSncYB/g/K9Mkf6BHtPA0r6dSDZfnkb0WDBxoQ=",
   "Source": "Acelera-Saude",
   "BasePath": "_content/Acelera-Saude",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Acelera-Saude\\wwwroot",
       "Source": "Acelera-Saude",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Acelera-Saude.styles.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Acelera-Saude.styles.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Acelera-Saude.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Acelera-Saude.styles.css"
+      "OriginalItemSpec": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Acelera-Saude.styles.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Acelera-Saude.bundle.scp.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Acelera-Saude.bundle.scp.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Acelera-Saude.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Acelera-Saude.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Acelera-Saude.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\ACO001-22 LOGO ACELERA SAÚDE-01_fundo_transparente.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\ACO001-22 LOGO ACELERA SAÚDE-01_fundo_transparente.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/ACO001-22 LOGO ACELERA SAÚDE-01_fundo_transparente.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\ACO001-22 LOGO ACELERA SAÚDE-01_fundo_transparente.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\ACO061-23 CAPA SITE INTERNO ACELERA (2).png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\ACO061-23 CAPA SITE INTERNO ACELERA (2).png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/ACO061-23 CAPA SITE INTERNO ACELERA (2).png",
       "AssetKind": "All",
@@ -85,27 +85,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\ACO061-23 CAPA SITE INTERNO ACELERA (2).png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\ACO061-23 CAPA SITE INTERNO ACELERA (3).png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\ACO061-23 CAPA SITE INTERNO ACELERA.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
-      "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/ACO061-23 CAPA SITE INTERNO ACELERA (3).png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\ACO061-23 CAPA SITE INTERNO ACELERA (3).png"
-    },
-    {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\ACO061-23 CAPA SITE INTERNO ACELERA.png",
-      "SourceId": "Acelera-Saude",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/ACO061-23 CAPA SITE INTERNO ACELERA.png",
       "AssetKind": "All",
@@ -119,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\ACO061-23 CAPA SITE INTERNO ACELERA.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\ACO061-23 CAPA SITE INTERNO ACELERA_Prancheta 1 (1).png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\ACO061-23 CAPA SITE INTERNO ACELERA_Prancheta 1 (1).png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/ACO061-23 CAPA SITE INTERNO ACELERA_Prancheta 1 (1).png",
       "AssetKind": "All",
@@ -136,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\ACO061-23 CAPA SITE INTERNO ACELERA_Prancheta 1 (1).png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\ACO068-23 BANNER SITE INTERNET ACELERA (1).png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\ACO068-23 BANNER SITE INTERNET ACELERA (1).png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/ACO068-23 BANNER SITE INTERNET ACELERA (1).png",
       "AssetKind": "All",
@@ -153,27 +136,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\ACO068-23 BANNER SITE INTERNET ACELERA (1).png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\ACO068-23 BANNER SITE INTERNET ACELERA.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\activecampaign.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
-      "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/ACO068-23 BANNER SITE INTERNET ACELERA.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\ACO068-23 BANNER SITE INTERNET ACELERA.png"
-    },
-    {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\activecampaign.png",
-      "SourceId": "Acelera-Saude",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/activecampaign.png",
       "AssetKind": "All",
@@ -187,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\activecampaign.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\activecampaign-seeklogo.com.svg",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\activecampaign-seeklogo.com.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/activecampaign-seeklogo.com.svg",
       "AssetKind": "All",
@@ -204,10 +170,44 @@
       "OriginalItemSpec": "wwwroot\\Assets\\activecampaign-seeklogo.com.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\anexo_i_rol_2021rn_4652021.pdf",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\ANASP - Ficha de filiação .pdf",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/ANASP - Ficha de filiação .pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\ANASP - Ficha de filiação .pdf"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\AnaspLogo.svg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/AnaspLogo.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\AnaspLogo.svg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\anexo_i_rol_2021rn_4652021.pdf",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/anexo_i_rol_2021rn_4652021.pdf",
       "AssetKind": "All",
@@ -221,12 +221,12 @@
       "OriginalItemSpec": "wwwroot\\Assets\\anexo_i_rol_2021rn_4652021.pdf"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\aplicativo-movel.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\aplicativo-movel.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/aplicativo-movel.png",
+      "RelativePath": "Assets/aplicativo-movel.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,47 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\aplicativo-movel.png"
+      "OriginalItemSpec": "wwwroot\\Assets\\aplicativo-movel.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\app-bolsa-de-valores.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\asana.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
-      "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/app-bolsa-de-valores.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\app-bolsa-de-valores.png"
-    },
-    {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\apresentacao (1).png",
-      "SourceId": "Acelera-Saude",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
-      "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/apresentacao (1).png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\apresentacao (1).png"
-    },
-    {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\asana.svg",
-      "SourceId": "Acelera-Saude",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/asana.svg",
       "AssetKind": "All",
@@ -289,10 +255,27 @@
       "OriginalItemSpec": "wwwroot\\Assets\\asana.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\Bitrix24.svg",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\b2b.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/b2b.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\b2b.svg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Bitrix24.svg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/Bitrix24.svg",
       "AssetKind": "All",
@@ -306,10 +289,95 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Bitrix24.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\Cartilha ANS sobre Portabilidade de carências.pdf",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Boletim Comercial SINDFAZ (1) (2).pdf",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/Boletim Comercial SINDFAZ (1) (2).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Boletim Comercial SINDFAZ (1) (2).pdf"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Boletim Comercial SINPOFESC (1) (2).pdf",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/Boletim Comercial SINPOFESC (1) (2).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Boletim Comercial SINPOFESC (1) (2).pdf"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Boletim Comercial SINPRF_SC (1) (2).pdf",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/Boletim Comercial SINPRF_SC (1) (2).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Boletim Comercial SINPRF_SC (1) (2).pdf"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\CaascLogo.jpg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/CaascLogo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\CaascLogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Capa.png",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/Capa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Capa.png"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Cartilha ANS sobre Portabilidade de carências.pdf",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/Cartilha ANS sobre Portabilidade de carências.pdf",
       "AssetKind": "All",
@@ -323,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Cartilha ANS sobre Portabilidade de carências.pdf"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\Cartilha_Portabilidade_de_carncias_semgov.pdf",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Cartilha_Portabilidade_de_carncias_semgov.pdf",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/Cartilha_Portabilidade_de_carncias_semgov.pdf",
       "AssetKind": "All",
@@ -340,12 +408,12 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Cartilha_Portabilidade_de_carncias_semgov.pdf"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\central-de-ajuda.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\chamada-de-smartphone (2).svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/central-de-ajuda.png",
+      "RelativePath": "Assets/chamada-de-smartphone (2).svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,30 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\central-de-ajuda.png"
+      "OriginalItemSpec": "wwwroot\\Assets\\chamada-de-smartphone (2).svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\chip.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\companhia.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
-      "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/chip.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\chip.png"
-    },
-    {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\companhia.png",
-      "SourceId": "Acelera-Saude",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/companhia.png",
       "AssetKind": "All",
@@ -391,12 +442,12 @@
       "OriginalItemSpec": "wwwroot\\Assets\\companhia.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\comunicado-de-imprensa.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\comunicar.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/comunicado-de-imprensa.png",
+      "RelativePath": "Assets/comunicar.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\comunicado-de-imprensa.png"
+      "OriginalItemSpec": "wwwroot\\Assets\\comunicar.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\conexao.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\consultando.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/conexao.png",
+      "RelativePath": "Assets/consultando.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,30 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\conexao.png"
+      "OriginalItemSpec": "wwwroot\\Assets\\consultando.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\consultando.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\cpf.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
-      "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/consultando.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\consultando.png"
-    },
-    {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\cpf.png",
-      "SourceId": "Acelera-Saude",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/cpf.png",
       "AssetKind": "All",
@@ -459,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\cpf.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\D4Sign-icon.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\D4Sign-icon.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/D4Sign-icon.png",
       "AssetKind": "All",
@@ -476,12 +510,12 @@
       "OriginalItemSpec": "wwwroot\\Assets\\D4Sign-icon.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\grafico-de-barras.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\documento.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/grafico-de-barras.png",
+      "RelativePath": "Assets/documento.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,13 +524,115 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\grafico-de-barras.png"
+      "OriginalItemSpec": "wwwroot\\Assets\\documento.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\icon-error.svg",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\FichaFiliacao.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/FichaFiliacao.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\FichaFiliacao.svg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Florianopolis.svg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/Florianopolis.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Florianopolis.svg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\FLORIPA_VETOR.svg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/FLORIPA_VETOR.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\FLORIPA_VETOR.svg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\grafico-de-barras.svg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/grafico-de-barras.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\grafico-de-barras.svg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\HelpDesk.svg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/HelpDesk.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\HelpDesk.svg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\ia.svg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/ia.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\ia.svg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\icon-error.svg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/icon-error.svg",
       "AssetKind": "All",
@@ -510,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\icon-error.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\ilovepdf.svg",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\ilovepdf.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/ilovepdf.svg",
       "AssetKind": "All",
@@ -527,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\ilovepdf.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\logo-asaas-azul-.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\logo-asaas-azul-.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/logo-asaas-azul-.png",
       "AssetKind": "All",
@@ -544,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\logo-asaas-azul-.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\LogoCapa1.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\LogoCapa1.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/LogoCapa1.png",
       "AssetKind": "All",
@@ -561,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\LogoCapa1.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\logo-cna-benevix.jpg",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\logo-cna-benevix.jpg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/logo-cna-benevix.jpg",
       "AssetKind": "All",
@@ -578,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\logo-cna-benevix.jpg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\octadeskicon.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\octadeskicon.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/octadeskicon.png",
       "AssetKind": "All",
@@ -595,12 +731,12 @@
       "OriginalItemSpec": "wwwroot\\Assets\\octadeskicon.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\p4h.jpeg",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\p4h.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/p4h.jpeg",
+      "RelativePath": "Assets/p4h.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\p4h.jpeg"
+      "OriginalItemSpec": "wwwroot\\Assets\\p4h.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\palestra.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Pj.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/palestra.png",
+      "RelativePath": "Assets/Pj.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\palestra.png"
+      "OriginalItemSpec": "wwwroot\\Assets\\Pj.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\pasta (2).png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\planejador.svg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/pasta (2).png",
+      "RelativePath": "Assets/planejador.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\pasta (2).png"
+      "OriginalItemSpec": "wwwroot\\Assets\\planejador.svg"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\planejador.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Plataformas _ Tabela formatada 2023 - Cópia de Região 2 (Plataformas).pdf",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
-      "RelativePath": "Assets/planejador.png",
+      "RelativePath": "Assets/Plataformas _ Tabela formatada 2023 - Cópia de Região 2 (Plataformas).pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Assets\\planejador.png"
+      "OriginalItemSpec": "wwwroot\\Assets\\Plataformas _ Tabela formatada 2023 - Cópia de Região 2 (Plataformas).pdf"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\PLOOMES_Imagotipo_Branco_Vertical_Fundo_Roxo.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\PLOOMES_Imagotipo_Branco_Vertical_Fundo_Roxo.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/PLOOMES_Imagotipo_Branco_Vertical_Fundo_Roxo.png",
       "AssetKind": "All",
@@ -680,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\PLOOMES_Imagotipo_Branco_Vertical_Fundo_Roxo.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\PortalConnect.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\PortalConnect.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/PortalConnect.png",
       "AssetKind": "All",
@@ -697,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\PortalConnect.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\Assets\\portfolio.png",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\portfolio.png",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "Assets/portfolio.png",
       "AssetKind": "All",
@@ -714,10 +850,112 @@
       "OriginalItemSpec": "wwwroot\\Assets\\portfolio.png"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\css\\LoginStyle.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Sindi.jpeg",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/Sindi.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Sindi.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Sindi2.jpeg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/Sindi2.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Sindi2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\Sindi3.jpeg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/Sindi3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Sindi3.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\slide.svg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/slide.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\slide.svg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\TABELA DE PREÇOS CAASC ACELERA - DEZ 22 A NOV 23 (2) (4).pdf",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/TABELA DE PREÇOS CAASC ACELERA - DEZ 22 A NOV 23 (2) (4).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\TABELA DE PREÇOS CAASC ACELERA - DEZ 22 A NOV 23 (2) (4).pdf"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\Assets\\treinamentos.svg",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
+      "BasePath": "_content/Acelera-Saude",
+      "RelativePath": "Assets/treinamentos.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\treinamentos.svg"
+    },
+    {
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\css\\LoginStyle.css",
+      "SourceId": "Acelera-Saude",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "css/LoginStyle.css",
       "AssetKind": "All",
@@ -731,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\css\\LoginStyle.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\css\\site.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -748,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\favicon.ico",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -765,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\js\\site.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -782,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -799,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -816,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -833,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -850,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -867,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -884,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -901,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -918,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -935,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -952,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -969,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -986,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1003,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1020,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1037,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1054,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1071,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1088,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1105,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1122,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1139,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1156,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1173,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1190,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1207,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1224,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1241,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1258,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1275,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1292,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1309,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1326,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1343,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1360,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1377,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1394,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1411,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1428,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1445,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1462,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1479,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1496,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1513,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1530,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1547,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1564,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1581,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1598,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1615,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1632,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1649,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1666,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1683,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1700,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1717,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1734,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Acelera-Saude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joaos\\source\\repos\\Acelera-Saude\\Acelera-Saude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\wwwroot\\",
       "BasePath": "_content/Acelera-Saude",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
