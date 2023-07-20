@@ -1,4 +1,32 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿
 
-// Write your JavaScript code.
+
+
+//---Codigo do Bloco TREINAMENTOS----\\
+const recebeValorDivTreinamentos = document.getElementById('column-treinamentos');
+const recebeValorHrefTreinamentos = recebeValorDivTreinamentos.querySelector('a');
+const recebeValorImgTreinamentos = recebeValorHrefTreinamentos.querySelector('img')
+
+if (recebeValorHrefTreinamentos.getAttribute('href') == '#') {
+    recebeValorImgTreinamentos.style.opacity = 0.5;
+    recebeValorImgTreinamentos.style.cursor = 'not-allowed';
+}
+else {
+    recebeValorHref.style.backgroundColor = '#f1f1f1';
+}
+//----------------------------------\\
+
+
+//---Codigo do Bloco Comunicados----\\
+const recebeValorDivComunicados = document.getElementById('column-comunicados');
+const recebeValorHrefComunicados = recebeValorDivComunicados.querySelector('a');
+const recebeValorImgComunicados = recebeValorHrefComunicados.querySelector('img')
+
+if (recebeValorHrefComunicados.getAttribute('href') == '#') {
+    recebeValorImgComunicados.style.opacity = 0.5;
+    recebeValorImgComunicados.style.cursor = 'not-allowed';
+}
+else {
+    recebeValorHref.style.backgroundColor = '#f1f1f1';
+}
+//----------------------------------\\

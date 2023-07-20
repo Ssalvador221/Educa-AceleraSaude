@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\Acelera-Saude.csproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\Acelera-Saude.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\Acelera-Saude.csproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\Acelera-Saude.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\Acelera-Saude.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\Acelera-Saude.csproj",
         "projectName": "Acelera-Saude",
-        "projectPath": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\Acelera-Saude.csproj",
-        "packagesPath": "C:\\Users\\joaos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaos\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\Acelera-Saude.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\Ssalvador221\\Educa-AceleraSaude\\Acelera-Saude\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joaos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

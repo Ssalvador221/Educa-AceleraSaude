@@ -3,6 +3,8 @@
 }   
 
 
+
+
 <div class="div-logo">
     <img class="logo" src="~/Assets/ACO068-23 BANNER SITE INTERNET ACELERA (1).png"/>
 </div>
@@ -13,9 +15,9 @@
             <a href="/Assets/Cartilha_Portabilidade_de_carncias_semgov.pdf" target="_blank"><img src="~/Assets/b2b.svg" class="portabilidade-icon" /></a>
             <p> Portabilidade </p>
         </div>
-        <div class="column">
-            <a href="#"><img src="~/Assets/treinamentos.svg" class="icon" /></a>
-            <p>Treinamentos</p>
+        <div class="column" id="column-treinamentos">
+           <a href="#"><img src="~/Assets/treinamentos.svg" class="icon" /></a>
+           <p>Treinamentos</p>
         </div>
         <div class="column">
             <a asp-controller="Paginas" asp-action="Documentos"><img src="~/Assets/documento.svg" class="icon" /></a>
@@ -37,7 +39,7 @@
             <a href="https://forms.gle/vvBdLkWgXfUMGB5d7"><img src="~/Assets/HelpDesk.svg" class="icon" /></a>
             <p>Helpdesk</p>
         </div>
-        <div class="column">
+        <div class="column" id="column-comunicados">
             <a href="#"><img src="~/Assets/comunicar.svg" class="icon" /></a>
             <p>Comunicados</p>
         </div>
@@ -58,4 +60,6 @@
             <p>Apps de Apoio</p>
         </div>
     </section>
+
+    <script src="~/js/site.js"></script>
 </body>
